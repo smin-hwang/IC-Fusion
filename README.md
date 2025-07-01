@@ -22,9 +22,9 @@ tools/train.py -c configs/rtdetr/rtdetr_r50vd_6x_coco.yml -r path/to/checkpoint 
 
 ## TODO list
 - [ ] Add instructions
-- [ ] Add test code
+- [x] Add test code
 - [ ] Add checkpoint files
-- [ ] Add training code
+- [x] Add training code
 
 ## Citation
 
