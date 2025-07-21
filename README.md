@@ -11,6 +11,7 @@ pip install -r requirements.txt     # install other needed packages
 ## Dataset Preparation
 
 ## Test
+- The benchmark results of our models can be downloaded from [IC-Fusion](https://gisto365-my.sharepoint.com/:u:/g/personal/sm_hwang_gm_gist_ac_kr/EXiyV-SY3_lDjiy6KoDPLsEBvFgIKPpOMXW-jZ-tnkeMQA?e=WhINuN).
 
 Run the following script to test the trained model:
 
